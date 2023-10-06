@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+
+.whychoose, .cate {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.wcu-item, .cate-item {
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 10%;
+    padding: 16px;
+}
+
+.centre-text {
+    text-align: center;
+}
